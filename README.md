@@ -1,3 +1,3 @@
 # AZUREProject
 
-Deployed using GitHub Actions to Azure ✅
+Deployed using GitHub Actions to Azure ✅.
