@@ -22,4 +22,5 @@ jobs:
         server-dir: /site/wwwroot/
         protocol: ftps
         local-dir: ./
+.
 
